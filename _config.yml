@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/Allay.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: https://raw.githubusercontent.com/AllayYT/allayyt.github.io/main/assets/img/Allay.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://allayyt.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -103,7 +103,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Allay # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Web Designer &Contact Creator
+blog_description: Web Designer & Contact Creator
 permalink: /blog/:year/:title/
 
 # Pagination
